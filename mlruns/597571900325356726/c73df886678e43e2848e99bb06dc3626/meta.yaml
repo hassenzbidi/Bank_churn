@@ -1,0 +1,15 @@
+artifact_uri: /home/mehrez/study/dep/banc/mlruns/597571900325356726/c73df886678e43e2848e99bb06dc3626/artifacts
+end_time: 1764943378706
+entry_point_name: ''
+experiment_id: '597571900325356726'
+lifecycle_stage: active
+run_id: c73df886678e43e2848e99bb06dc3626
+run_name: random-forest-v1
+run_uuid: c73df886678e43e2848e99bb06dc3626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764943370633
+status: 3
+tags: []
+user_id: mehrez
