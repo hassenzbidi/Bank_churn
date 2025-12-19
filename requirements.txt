@@ -23,3 +23,5 @@ requests==2.31.0
 
 opencensus
 opencensus-ext-azure
+seaborn==0.13.0
+matplotlib==3.8.2
