@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_RESOURCE_GROUP: rg-mlops-bank-churn # le nom de la ressource group
+  AZURE_RESOURCE_GROUP: rg-mlops # le nom de la ressource group
   ACR_NAME: acrmlopsmehrez1765555825  # le nom de l'ACR
   CONTAINER_APP_NAME: churn-api # le nom de l'api
   IMAGE_NAME: bank-churn-api # le nom de l'image docker
